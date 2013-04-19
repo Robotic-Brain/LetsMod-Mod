@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Let's Mod",
+  "description": "The inofficial LetsMod mod! Robotic-Brain's version",
+  "version": "0.0.1",
+  "url": "www.github.com/Robotic-Brain/LetsMod-Mod",
+  "updateUrl": "",
+  "authorList": [
+    "pahimar",
+    "Robotic-Brain"
+  ],
+  "credits": "All of you lovely modders out there!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
